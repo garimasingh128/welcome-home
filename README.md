@@ -4,13 +4,13 @@ A GitHub App built with [Probot](https://github.com/probot/probot) that welcomes
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
-![Last Commit](https://img.shields.io/github/last-commit/garimasingh128/helloworld)
+![Last Commit](https://img.shields.io/github/last-commit/garimasingh128/welcome-home)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
-![Release Date](https://img.shields.io/github/release-date/garimasingh128/helloworld)
-![Issues](https://img.shields.io/github/issues/garimasingh128/helloworld)
-![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/helloworld)
-![Language](https://img.shields.io/github/languages/top/garimasingh128/helloworld)
-![Size](https://img.shields.io/github/repo-size/garimasingh128/helloworld)
+![Release Date](https://img.shields.io/github/release-date/garimasingh128/welcome-home)
+![Issues](https://img.shields.io/github/issues/garimasingh128/welcome-home)
+![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/welcome-home)
+![Language](https://img.shields.io/github/languages/top/garimasingh128/welcome-home)
+![Size](https://img.shields.io/github/repo-size/garimasingh128/welcome-home)
 
 
 ## Contributions and PR
