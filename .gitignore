@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+*.pem
+.env
+# This file **should** be committed 
+# See https://github.com/npm/npm/blob/v5.0.0/doc/files/package-lock.json.md
+# package-lock.json
+coverage
+lib
